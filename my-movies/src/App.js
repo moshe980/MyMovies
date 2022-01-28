@@ -87,7 +87,7 @@ function App() {
      <Container> 
         <Header>
             <AppName>
-            MyMovie
+            MyMovies
             </AppName>
             <SearchBox>
             <SearchInput 
