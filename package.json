@@ -1,0 +1,23 @@
+{
+  "name": "mymoviefrontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Orli-dev/MyMovieFrontend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Orli-dev/MyMovieFrontend/issues"
+  },
+  "homepage": "https://github.com/Orli-dev/MyMovieFrontend#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}

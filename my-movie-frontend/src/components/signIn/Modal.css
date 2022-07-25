@@ -1,0 +1,125 @@
+.modalBackground {
+    padding-top: 100px;
+    width: 200vw;
+    height: 200vh;
+    background-color: #9a9ba3c2;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+        opacity: 0.97;
+
+}
+
+.modalContainer {
+     width: 500px;
+    height: 100px;
+    border-radius: 12px;
+
+    display: flex;
+    flex-direction: column;
+    padding: 25px;
+}
+
+/* .modalContainer .title {
+    display: inline-block;
+    text-align: center;
+    margin-top: 10px;
+} */
+
+.titleCloseBtn {
+
+
+    position: absolute;
+    right: 1200px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.titleCloseBtn button {
+    background-color: transparent;
+    border: none;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.modalContainer .body {
+    flex: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.7rem;
+    text-align: center;
+}
+
+.modalContainer .footer {
+    flex: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.main {
+    animation: overlay-grow 500ms forwards;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    padding-top: 100px;
+    padding-bottom: 90px;
+    background-color: #e1e3eb;
+}
+
+/* .sub-main {
+    animation: overlay-grow 500ms forwards;
+    display: flex;
+    justify-content: center;
+    height: 350px;
+    width: 100%;
+    box-shadow: 11px 12px 13px 12px rgb(207, 207, 207);
+    padding-top: 30px;
+    border-radius: 60px;
+    background-color: white;
+} */
+
+
+.email {
+    height: 25px;
+    width: 25px;
+    position: absolute;
+    padding: 14px 0 0 25px;
+}
+
+.name {
+       width: 300px;
+       height: 50px;
+       border-radius: 60px;
+       box-shadow: inset 0px 0px 25px 0px #888;
+       border: none;
+       outline: none;
+       background-color: #fff;
+    padding-left: 70px;
+    font-size: 20px;
+}
+
+.second-input {
+    padding-top: 20px;
+}
+
+
+
+.login-button {
+    padding-top: 25px;
+    
+}
+
+.link {
+    font-size: 25px;
+    font-weight: 400;
+     
+}
+.sub-link{
+ color: blue;
+ cursor: pointer;
+}
