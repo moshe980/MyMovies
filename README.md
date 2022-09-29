@@ -10,7 +10,7 @@ themselves to manage and view.
 # Scope
 Advertising of products, security, account billing, streaming system, recommendation system for users by their watching habits are not part of this project.
 
-# Scope Technologies list
+# Technologies list
 ● Google docs ● Google Drive ● Zoom ● Whatsapp ● Trello ● Git ● Git Bash ● Bitbucket Backend ● Spring Framework ● Spring Boot ● Spring Web ● Spring Data JPA ● Apache Logging Services ● Jackson ● React ● Bootstrap ● Node.JS ● NPM Database ● Hibernate ● H2 (Previous DB) ● MongoDB ● Gherkin ● Junit ● Postman ● Spring Test IDE ● Eclipse ● VS Code
 
 # Screen shoots![‏‏לכידה](https://user-images.githubusercontent.com/57193257/180830976-4caee0fd-6d7b-4905-b858-2673104f2e20.PNG)
